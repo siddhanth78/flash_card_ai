@@ -135,9 +135,9 @@ def main():
         user_question = pages[i].page_content        
         try:
             context = format_docs(retriever.invoke(user_question))
-            print("\nAnswer:")
-            for result in rag_chain.stream({"question": user_question}):
-                print(result, end='', flush=True)
+            with open("cards.txt", "a") as file:
+                file.write(rag_chain.invoke({"question": user_question}))
+                file.write("\n")
         except Exception as e:
             print(f"An error occurred while processing your question: {e}")
             print("Please ensure that Ollama is installed and running.")
