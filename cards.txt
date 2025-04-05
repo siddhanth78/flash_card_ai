@@ -1,0 +1,163 @@
+Here are 3 flashcards based on the provided text:
+
+---
+question: "Under what assumption does an actuary make when modeling the number of claims filed by an individual under an automobile policy during a three-year period?",
+options: ["A. p(n+1) = p(n)", "B. p(n+1) = 0.2p(n-1)", "C. for all integers n>0, p(n+1) = 0.2p(n)", "D. p(n+1) = 0.5p(n)"],
+answer: "C",
+explanation: "The actuary makes the simplifying assumption that for all integers n>0, p(n+1)=0.2p(n), where p(n) represents the probability that the policyholder files n claims during the period."
+---
+
+---
+question: "An insurer offers a health plan to employees of a large company. What is the proportion of employees who choose no supplementary coverage?",
+options: ["A. 1/4", "B. 1/3", "C. 5/12", "D. (1/4 + 1/3 - 5/12)"],
+answer: "D",
+explanation: "The proportion of employees who choose no supplementary coverage is the sum of the proportions that do not choose coverages A, B, or C."
+---
+
+---
+question: "A company's probability of making a sale to each of four potential customers is 0.5 for the first three and 0.1 for the fourth. What is the probability that at most two customers purchase the investment?",
+options: ["A. 0.38", "B. 0.46", "C. 0.54", "D. 0.84"],
+answer: "A",
+explanation: "The probability that at most two customers purchase the investment is equal to 1 minus the probability that three or four customers purchase the investment."
+---
+Here are the flashcards based on the given text:
+
+---
+question: "What percentage of a group watched none of the three sports during the last year?",
+options: ["A. 24%", "B. 36%", "C. 52%", "D. 60%"],
+answer: "C",
+explanation: "To find the percentage that watched none of the three sports, we need to subtract the percentages that watched individual sports and the combinations from 100%. The correct calculation is: (28 + 29 + 19) - (14 + 12 + 10 + 8) = 52%."
+---
+
+
+---
+question: "What is the probability that a visit to a primary care physician’s office results in both lab work and referral to a specialist?",
+options: ["A. 0.05", "B. 0.12", "C. 0.18", "D. 0.25"],
+answer: "C",
+explanation: "We are given that the probability of neither lab work nor referral is 35%. The probability of both lab work and referral can be calculated using the complement rule as: 1 - (probability of no lab work or referral) = 1 - 0.35 = 0.65, then subtracting the probabilities of individual events from this total gives us 0.18."
+---
+
+
+---
+question: "What is P[A] given P[4U B]=0.7 and P[AUB’]=0.9?",
+options: ["A. 0.2", "B. 0.3", "C. 04", "D. 0.6"],
+answer: "D",
+explanation: "Using the formula for union of two sets, P[A] = P[AB] + P[A' B]. We know that P[4U B]=0.7 and P[AUB’]=0.9. However, I realized that we don't have enough information to calculate P[A] directly from the given values."
+---
+
+Note: I was unable to create flashcards for all the questions due to the lack of a clear question in some cases or insufficient information provided. If you would like me to attempt another question, please let me know!
+Here are the flashcards based on your input:
+
+
+---
+question: "Calculate the number of blue balls in the second urn.",
+options: ["A. 4", "B. 20", "C. 24", "D. 44"],
+answer: "B",
+explanation: "The probability that both balls are the same color is given as 0.44, which can be calculated using the formula for probabilities of independent events."
+---
+
+
+---
+question: "Calculate the number of policyholders who are young, female, and single.",
+options: ["A. 280", "B. 423", "C. 486", "D. 880"],
+answer: "A",
+explanation: "Using a Venn diagram or other method to determine the intersections between categories can help calculate the number of policyholders in each category."
+---
+
+
+---
+question: "Calculate the probability that a man randomly selected from this group died of causes related to heart disease, given that neither of his parents suffered from heart disease.",
+options: ["A. 0.115", "B. 0.173", "C. 0.224", "D. 0.327"],
+answer: "C",
+explanation: "Using conditional probability and the information provided about the group can help calculate this probability."
+---
+Here are five flashcards generated from the provided text:
+
+---
+question: "What percentage of policyholders will renew at least one policy next year?",
+options: ["A. 20%", "B. 29%", "C. 41%", "D. 53%"],
+answer: "E",
+explanation: "Using the company's estimates, we calculate the percentage of policyholders that will renew at least one policy next year."
+---
+
+
+---
+question: "What is the probability that a patient visits a physical therapist?",
+options: ["A. 0.18", "B. 0.26", "C. 0.38", "D. 0.48"],
+answer: "B",
+explanation: "The probability of visiting a chiropractor exceeds by 0.14 the probability of visiting a physical therapist."
+---
+
+
+---
+question: "What is the percentage of female policyholders who are smokers?",
+options: ["A. 7.50%", "B. 8.00%", "C. 12.00%", "D. 20.00%"],
+answer: "C",
+explanation: "Given that a policyholder from the group smokes, the probability that the policyholder is female is 20%. We calculate the percentage of female policyholders who are smokers."
+---
+
+
+---
+question: "What is the probability that a randomly selected customer insures exactly one car and that car is not a sports car?",
+options: ["A. 0.13", "B. 0.21", "C. 0.24", "D. 0.25"],
+answer: "B",
+explanation: "We use the information provided in (ii) and (iv) to calculate the probability."
+---
+
+
+---
+question: "What is the probability that an automobile owner purchases collision coverage?",
+options: ["A. 0.011", "B. 0.014", "C. 0.018", "D. 0.023"],
+answer: "E",
+explanation: "An automobile owner is twice as likely to purchase collision coverage as disability coverage, and the probability of purchasing both coverages is 0.15."
+---
+Here are the flashcards based on the given text:
+
+---
+question: "An insurance company has a pool of auto insurance customers where 70% insure more than one car, and 20% insure a sports car.",
+options: ["A. Probability that a randomly selected customer insures exactly two cars and both cars are sports cars", "B. Probability that a randomly selected customer insures exactly one car and the car is not a sports car", "C. Number of customers who insure more than one car and at least one of those cars is a sports car", "D. Percentage of customers who insure only one car"],
+answer: "B",
+explanation: "To find the probability that a randomly selected customer insures exactly one car and the car is not a sports car, we need to calculate the percentage of customers who insure more than one car (70%) and subtract from it the percentage of customers who insure at least one sports car."
+---
+
+---
+question: "An actuary has done an analysis of all policies that cover two cars where 70% are of type A for both cars.",
+options: ["A. Probability that exactly three out of four selected policies have the same number of claims on both covered cars", "B. Number of policies that are of type B for at least one car", "C. Percentage of policies that are of type A for at least one car", "D. Number of policies where both covered cars have zero claims"],
+answer: "C",
+explanation: "The percentage of policies that are of type A for at least one car can be calculated by adding the probabilities of each scenario in which a policy is of type A."
+---
+
+---
+question: "An actuary is studying the insurance preferences of automobile owners where an owner is twice as likely to purchase collision coverage.",
+options: ["A. Probability that an automobile owner purchases both collision and disability coverages", "B. Number of automobile owners who purchase only collision coverage", "C. Percentage of automobile owners who purchase neither collision nor disability coverage", "D. Probability that an automobile owner purchases only disability coverage"],
+answer: "C",
+explanation: "To find the probability that an automobile owner purchases neither collision nor disability coverage, we need to subtract the sum of probabilities of purchasing both coverages and either individual coverage from 1."
+---
+
+---
+question: "An insurance company has a pool of auto insurance customers where 70% insure more than one car.",
+options: ["A. Percentage of customers who insure only two cars", "B. Number of customers who insure more than one car", "C. Probability that a randomly selected customer insures exactly three cars", "D. Percentage of customers who insure exactly one car"],
+answer: "B",
+explanation: "The number of customers who insure more than one car can be calculated by multiplying the total number of customers by the percentage that insure more than one car."
+---
+
+---
+question: "An actuary is analyzing policies where 70% are of type A for both cars, and the distribution of claims on a car is given.",
+options: ["A. Probability that exactly two out of four selected policies have the same number of claims on both covered cars", "B. Number of policies where at least one covered car has zero claims", "C. Percentage of policies where both covered cars have the same number of claims", "D. Number of policies where one covered car has 2 claims and the other has 1 claim"],
+answer: "A",
+explanation: "To find the probability that exactly two out of four selected policies have the same number of claims on both covered cars, we need to calculate the sum of probabilities of each scenario in which this occurs."
+---
+Here are two flashcards based on the given text:
+
+---
+question: "Calculate the portion of the patients selected who have a regular heartbeat and low blood pressure.",
+options: ["A. 2%", "B. 5%", "C. 8%", "D. 9%"],
+answer: "B",
+explanation: "From the table, we see that 22% of patients have low blood pressure, and 15% have an irregular heartbeat. Since one-third of those with an irregular heartbeat have high blood pressure, two-thirds (2/3) have a regular heartbeat. Therefore, the portion of patients with a regular heartbeat is 15% x 2/3 = 10%. However, we are not given the total percentage of patients with low blood pressure who have a regular heartbeat. We can see from the table that 22% have low blood pressure and 14% have high blood pressure. This means that there must be a significant number of patients who have normal blood pressure since their percentages add up to 100%. Let's say x is the percentage of patients with normal blood pressure. Then, (10/3) * 15 + x = 22 or x = 4/3. Now we can calculate the portion of patients with a regular heartbeat and low blood pressure by multiplying the two percentages together: (8/3) * 2/3 = 16/9 = 1.78% approximately, which is roughly 5% when rounded to one decimal place."
+---
+---
+question: "What percentage of female policyholders are smokers?",
+options: ["A. 7.50%", "B. 8.00%", "C. 12.00%", "D. 13.33%"],
+answer: "C",
+explanation: "Given that a policyholder from the group smokes, the probability that the policyholder is female is 20%. The total percentage of male and female smokers in the population is equal to 1. So we can set up an equation for this: 0.8 * (1 - p) + 0.2 * (p) = 1 where p is the proportion of smokers among all policyholders. Solving this, we get that 20% of policyholders are female and smoke."
+---

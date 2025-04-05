@@ -1,0 +1,178 @@
+{
+    "1": {
+        "question": "What type of memory allows Marcel to re-experience past feelings?",
+        "options": [
+            "A. Involuntary memory",
+            "B. Voluntary memory",
+            "C. Somatic memory",
+            "D. Episodic memory"
+        ],
+        "answer": "A",
+        "explanation": "Marcel's involuntary memory revives his past self and allows him to remember and re-experience the various feelings he had felt."
+    },
+    "2": {
+        "question": "What is Marcel's relationship with time described as?",
+        "options": [
+            "A. Chronophilic and chronophobic",
+            "B. Atemporal and temporal",
+            "C. Eternal and fleeting",
+            "D. Fixed and dynamic"
+        ],
+        "answer": "A",
+        "explanation": "Marcel has a chronophilic (attached to life) and chronophobic (fear of losing it) relationship with time."
+    },
+    "3": {
+        "question": "What is the effect of Marcel's fear of death on his desire for immortality?",
+        "options": [
+            "A. It increases his desire for immortality",
+            "B. It contradicts his desire for survival",
+            "C. It makes him seek to live forever",
+            "D. It leads to a sense of liberation"
+        ],
+        "answer": "B",
+        "explanation": "Marcel's fear of death contradicts his desire for survival, leading to an attachment to life and the fear of losing it."
+    },
+    "4": {
+        "question": "What is the relationship between immortality and change?",
+        "options": [
+            "A. Immortality entails constant change",
+            "B. Immortality entails no risk of death",
+            "C. Immortality leads to a sense of urgency",
+            "D. Immortality means an end to meaningful transformations"
+        ],
+        "answer": "D",
+        "explanation": "Immortality itself entails no change, which implies no sense of urgency and no scope for development or meaningful transformations."
+    },
+    "5": {
+        "question": "What is poetic attunement described as?",
+        "options": [
+            "A. Appreciating poetry through intellectual understanding",
+            "B. Responding to life with emotional awareness",
+            "C. Understanding poetry through historical context",
+            "D. Analyzing poetry through literary devices"
+        ],
+        "answer": "B",
+        "explanation": "Poetic attunement is the idea of appreciating poetry and living through emotional awareness."
+    },
+    "6": {
+        "question": "What is the name of Siddhartha's friend who sees his growth and transformation?",
+        "options": [
+            "A. Govinda",
+            "B. Rilke",
+            "C. Kamala",
+            "D. Buddha"
+        ],
+        "answer": "A",
+        "explanation": "Govinda is Siddhartha's friend, who witnesses his transformation in the last chapter 'Govinda'."
+    },
+    "7": {
+        "question": "What does Siddhartha realize about relationships through his experiences?",
+        "options": [
+            "A. Relationships are meant to be superficial",
+            "B. Relationships require giving up parts of oneself",
+            "C. Authentic relationships involve unity and oneness",
+            "D. Relationships only bring suffering"
+        ],
+        "answer": "C",
+        "explanation": "Siddhartha comes to understand that authentic relationships involve unity and oneness, which he learns through his experiences and the teachings of Rilke."
+    },
+    "8": {
+        "question": "What is the significance of Om in Siddhartha's journey?",
+        "options": [
+            "A. It symbolizes wealth and material possessions",
+            "B. It represents the power of spirituality and energy",
+            "C. It signifies the importance of logic and reasoning",
+            "D. It embodies the concept of Maja"
+        ],
+        "answer": "B",
+        "explanation": "Om is a holy word that holds spiritual significance, representing the power of energy and leading to Siddhartha's newfound joy and appreciation for life."
+    },
+    "9": {
+        "question": "What does Rilke mention as essential for authentic relationships?",
+        "options": [
+            "A. One partner must dominate the other",
+            "B. Partners should lose parts of themselves to sustain the relationship",
+            "C. Partners must manage themselves using their own experiences, talents, and nature",
+            "D. Relationships only bring suffering"
+        ],
+        "answer": "C",
+        "explanation": "Rilke emphasizes that authentic relationships involve partners managing themselves and coming together with the idea of oneness and unity."
+    },
+    "10": {
+        "question": "What is Siddhartha's initial state before his transformation?",
+        "options": [
+            "A. He is already wise and experienced",
+            "B. He is lost and unable to experience true joy or love",
+            "C. He is a skilled spiritual leader",
+            "D. He is unaware of the concept of Maja"
+        ],
+        "answer": "B",
+        "explanation": "Initially, Siddhartha is lost and struggles to experience true joy or love due to his craving for a richer experience."
+    },
+    "11": {
+        "question": "What is characteristic of Kierkegaard's 'knight of faith'?",
+        "options": [
+            "A. He completely rejects the idea of faith",
+            "B. He adheres strictly to moral laws and ethics",
+            "C. He surrenders to God, suspending all forms of reasoning and ethics",
+            "D. He believes in reason over faith"
+        ],
+        "answer": "C",
+        "explanation": "Kierkegaard's 'knight of faith' is someone who completely surrenders to God, suspending all forms of reasoning and ethics."
+    },
+    "12": {
+        "question": "According to Nietzsche, what is the difference between a master and a slave?",
+        "options": [
+            "A. A master is someone who lacks power and self-affirmation",
+            "B. A slave is someone who possesses good qualities such as nobility and creativity",
+            "C. A person is either a master or a slave, with masters being powerful and self-affirmed, and slaves possessing 'bad' qualities",
+            "D. A master is someone who serves God's will"
+        ],
+        "answer": "C",
+        "explanation": "Nietzsche argues that there is a dichotomy between a master and a slave, with the former being powerful and self-affirmed, and the latter possessing 'bad' qualities such as weakness and meekness."
+    },
+    "13": {
+        "question": "How does Abraham's faith according to Kierkegaard relate to standard reasoning?",
+        "options": [
+            "A. It is based solely on reason",
+            "B. It completely rejects the idea of faith",
+            "C. His leap of faith goes beyond standard reasoning",
+            "D. He uses faith as a substitute for reason"
+        ],
+        "answer": "C",
+        "explanation": "According to Kierkegaard, Abraham's faith transcends standard reasoning and is based on his relationship with God."
+    },
+    "14": {
+        "question": "What does Nietzsche believe about Judeo-Christian traditions?",
+        "options": [
+            "A. They promote the idea of self-affirmation",
+            "B. They embody master morality",
+            "C. They embody slave morality and promote submission, weakness, and suffering",
+            "D. They are based solely on reason"
+        ],
+        "answer": "C",
+        "explanation": "Nietzsche argues that Judeo-Christian traditions embody slave morality and promote submission, weakness, and suffering."
+    },
+    "15": {
+        "question": "What does Abraham's relationship with God according to Kierkegaard represent?",
+        "options": [
+            "A. A point of weakness",
+            "B. A rejection of the absolute",
+            "C. A transcendence into the absolute",
+            "D. A surrender to human will"
+        ],
+        "answer": "C",
+        "explanation": "According to Kierkegaard, Abraham's relationship with God represents a transcendence into the absolute."
+    },
+    "16": {
+        "question": "How does Nietzsche view Christians taking the leap of faith?",
+        "options": [
+            "A. As a sign of strength and self-affirmation",
+            "B. As a sign of weakness and submission",
+            "C. As a means to become masters rather than slaves",
+            "D. As a rejection of reason"
+        ],
+        "answer": "C",
+        "explanation": "Nietzsche argues that Christians taking the leap of faith would turn them into masters, contradicting his argument that they are slaves."
+    }
+}

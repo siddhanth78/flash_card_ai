@@ -1,6 +1,5 @@
 import os
 import sys
-from collections import deque
 from langchain_chroma import Chroma
 from langchain_ollama import OllamaLLM
 from langchain_core.output_parsers import StrOutputParser
@@ -75,7 +74,6 @@ Make each flash card like an mcq (Multiple choice question) where there are 4 ch
 Make sure the options are related to the question. Feel free to come up with your own wrong options as long as the options pertain to the question.
 
 Make sure that the questions aren't too obscure. Format the question and answer in a custom format provided with no surrounding text or explanations.
-The JSON must contain the following fields:
 
 question: contains the question string.
 options: contains list of options labelled A, B, C, D
@@ -94,12 +92,12 @@ explanation: "The USA stands for United States of America."
 """
 
     question_prompt_template = """
-Current context and question:
+Current context:
 {context}
 
-Question: {question}
+{question}
 
-Answer:"""
+"""
     return system_prompt, question_prompt_template
 
 def setup_rag_chain(retriever, system_prompt, question_prompt_template):
@@ -125,18 +123,20 @@ def setup_rag_chain(retriever, system_prompt, question_prompt_template):
     return rag_chain, format_docs
 
 def main():
+    with open("cards.txt", "w") as file:
+        file.write("")
     file_path = get_valid_file_path()
     splits, pages = load_and_split_file(file_path)
     retriever = setup_vectorstore(splits)
     system_prompt, question_prompt_template = get_prompts()
     rag_chain, format_docs = setup_rag_chain(retriever, system_prompt, question_prompt_template)
-
     for i in range(len(pages)):
-        user_question = pages[i].page_content        
+        user_question = pages[i].page_content 
+        print(f"Generating flash card(s) from page {i+1}")
         try:
             context = format_docs(retriever.invoke(user_question))
             with open("cards.txt", "a") as file:
-                file.write(rag_chain.invoke({"question": user_question}))
+                file.write(rag_chain.invoke({"question": user_question, "context": context}))
                 file.write("\n")
         except Exception as e:
             print(f"An error occurred while processing your question: {e}")
